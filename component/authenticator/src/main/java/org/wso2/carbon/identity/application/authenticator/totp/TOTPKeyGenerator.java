@@ -234,3 +234,4 @@ public class TOTPKeyGenerator {
 		return generateKey(tenantDomain, null);
 	}
 }
+
